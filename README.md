@@ -3,10 +3,7 @@
 > [!IMPORTANT]  
 > **🚨 VPN REQUIRED** - This tool MUST be used with VPN to be hidden. Without VPN, you're exposing your real IP to search engines.
 
-> *"Google wants to know everything about you. I want to know nothing."*
-> — private deep claw, probably
-
-**private deep claw** is your privacy-obsessed research assistant. **REQUIRES VPN to be hidden.** It searches the web deeply, synthesizes findings with citations, and forgets everything the moment it's done.
+**Don't let Big Tech know what you and your open claw are up to.** Multi-iteration deep research that helps keep your claws private.
 
 Powered by [SearXNG](https://github.com/searxng/searxng). **VPN REQUIRED for privacy.** No Google. No tracking. No API keys. No BS.
 
@@ -18,32 +15,24 @@ Powered by [SearXNG](https://github.com/searxng/searxng). **VPN REQUIRED for pri
 ```bash
 searx "best password managers 2026" 5
 ```
-private deep claw queries DuckDuckGo, Brave, Startpage, and friends. Google and Bing are blocked at the door.
+Don't let Big Tech know what you and your open claw are up to. Multi-iteration deep research that helps keep your claws private.
 
 ### 🔬 It Researches (Deeply)
 ```bash
 deep-research "zero knowledge proofs practical applications"
 ```
-private deep claw doesn.t just search once and call it a day. It:
-1. Searches your query
-2. Reads the results
-3. Thinks "hmm, I need more context"
-4. Searches again with refined terms
-5. Scrapes full article content
-6. Repeats up to 5 times
-7. Synthesizes everything into a report with citations
+Don't let Big Tech know what you and your open claw are up to. Multi-iteration deep research that helps keep your claws private.
 
-Like Perplexity, but it doesn't sell your soul to investors.
+### 🛡️ Don't Let Big Tech Know What You and Your Open Claw Are Up To
 
-### 🛡️ It Protects (Always)
-
-| What Big Tech Does | What claw Does |
-|--------------------|----------------|
+| What Big Tech Does | What Open Claw Does |
+|--------------------|---------------------|
 | Logs every search | Logs nothing |
 | Builds a profile on you | Forgets you exist |
 | Sells your data | Has no data to sell |
 | Runs on their servers | Runs on YOUR machine |
 | Costs $20/month | Costs $0/forever |
+**Don't let Big Tech know what you and your open claw are up to**
 
 ---
 

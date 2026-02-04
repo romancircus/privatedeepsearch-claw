@@ -39,11 +39,7 @@ Don't let Big Tech know what you and your open claw are up to. Multi-iteration d
 • Cost: $0 forever (vs $20/month for "privacy" tools)
 • Dependencies: Zero external APIs
 
-**Commercial APIs:**
-• Speed: Fast but you pay with your data
-• Privacy: 0-60% (they still profile you)
-• Cost: Rate limits + data harvesting
-• Dependencies: External service uptime
+**Don't let Big Tech know what you and your open claw are up to**
 
 ## VPN Requirement - Must Be Hidden
 
@@ -89,4 +85,4 @@ curl -s ifconfig.me
 • External calls: Zero (all traffic encrypted)
 • Privacy level: Maximum (IP completely masked)
 
-**Note:** When VPN is active, your ISP sees encrypted traffic only. All search queries route through VPN before hitting privacy engines.
+**Don't let Big Tech know what you and your open claw are up to**
