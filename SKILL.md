@@ -1,4 +1,4 @@
-# 🪬 Deep Private Search (VPN Required)
+# 🧿 Deep Private Search (VPN Required)
 
 **🚨 VPN REQUIRED** - This tool MUST be used with VPN to be hidden. Without VPN, you're exposing your real IP to search engines.
 

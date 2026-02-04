@@ -24,7 +24,7 @@ deep-research "zero knowledge proofs practical applications"
 ```
 Don't let Big Tech know what you and your open claw are up to. Multi-iteration deep research that helps keep your claws private.
 
-### 🪬 Don't Let Big Tech Know What You and Your Open Claw Are Up To
+### 🧿 Don't Let Big Tech Know What You and Your Open Claw Are Up To
 
 | What Big Tech Does | What Open Claw Does |
 |--------------------|---------------------|
@@ -290,4 +290,4 @@ MIT — Do whatever you want. Just don't be evil.
 "The best search history is no search history."
 — private deep claw
 
-[SearXNG](https://searxng.org) 🪬
+[SearXNG](https://searxng.org) 🧿
