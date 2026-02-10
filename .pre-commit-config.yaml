@@ -1,0 +1,33 @@
+repos:
+  # Linear Enforcement - BLOCK MODE
+  - repo: local
+    hooks:
+      - id: enforce-linear-task
+        name: Enforce Linear task creation
+        entry: python scripts/precommit_linear_hooks.py enforce-task-exists
+        language: python
+        always_run: true
+        pass_filenames: false
+        stages: [pre-commit]
+
+      - id: check-linear-ref
+        name: Check Linear reference in commit
+        entry: python scripts/precommit_linear_hooks.py check-commit-msg
+        language: python
+        stages: [commit-msg]
+
+      - id: check-agents-symlink
+        name: Verify AGENTS.md symlink
+        entry: python scripts/precommit_linear_hooks.py check-agents-symlink
+        language: python
+        pass_filenames: false
+        always_run: true
+        stages: [pre-commit]
+
+  # Basic checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
